@@ -20,13 +20,17 @@ Ini bukan lagu tentang kesempurnaan. Ini tentang **keberanian untuk tetap berbua
 
 ### Cerita Di Balik Lagu: "Mengering Sumurku, Terisi Kembali"
 
-Saya pertama kali mendengarkan "Membasuh" di malam yang cukup berat—setelah tim saya tidak lolos ke babak final kompetisi hackathon yang sudah kami persiapkan selama berminggu-minggu. Rasanya seperti semua usaha kami sia-sia. Saya duduk sendirian di kamar, merasa "kering" secara emosional, dan entah bagaimana algoritma Spotify memutar lagu ini.
+Saya pertama kali benar-benar *mendengarkan* "Membasuh" di tahun pertama SMA Pradita Dirgantara, Jawa Tengah. Bukan mendengar—tapi **mendengarkan**. Ada perbedaan.
 
-*"Selama ini kunanti, yang kuberikan datang berbalik..."*
+Waktu itu, saya sedang di titik terendah masa adaptasi: **jauh dari Samarinda, jauh dari keluarga, merasa completely alone di tempat asing.** Sistem asrama yang strict, bahasa yang tidak familiar, makanan yang berbeda, dan lingkaran sosial yang belum terbentuk. Saya merasa... **kering**. Seperti sumur yang sudah tidak punya apa-apa lagi untuk diberikan—bahkan untuk diri sendiri.
+
+Suatu malam, setelah ujian yang rasanya berat banget, saya duduk sendirian di asrama. Entah bagaimana, lagu ini muncul di playlist random.
+
+*"Selama ini kunanti, yang kuberikan datang berbalik... Tak kunjung pulang."*
 
 Bait pembuka itu langsung menohok. Hindia dengan jujur mengakui bahwa ia memberi dengan ekspektasi—menunggu sesuatu kembali. Dan ketika tidak datang? *"Tak kunjung pulang."* 
 
-Rasanya seperti Hindia sedang membaca diary saya. Berapa kali saya begadang untuk proyek organisasi, berharap "diakui" atau "dihargai"? Berapa kali saya memberi effort maksimal dalam lomba, berharap menang? Dan ketika hasilnya tidak sesuai ekspektasi, rasanya seperti... *mengering*.
+**Rasanya seperti Hindia sedang mendeskripsikan perasaan saya waktu itu.** Saya datang ke Jawa Tengah dengan ekspektasi: "Pasti bisa kok adapt cepat," "Pasti bakal dapat teman," "Pasti worth it." Tapi reality? Tidak secepat yang saya bayangkan. Effort yang saya berikan—trying to fit in, trying to be friendly—rasanya tidak "kembali" dalam bentuk connection yang saya harapkan.
 
 **Momen "Aha!" Saya:**
 
@@ -34,15 +38,23 @@ Tapi kemudian Hindia melanjutkan dengan baris yang mengubah segalanya:
 
 > *"Telah kusadar hidup bukanlah perihal mengambil yang kau tebar"*
 
-Wait. Jadi selama ini saya salah fokus? Hidup bukan tentang "menabung kebaikan" lalu "menarik hasilnya"? 
+Wait. Jadi selama ini saya salah fokus? **Hidup bukan tentang "menabung effort" lalu "menarik hasil"?** Bukan tentang "give and expect return"?
 
-Dan kemudian bagian yang paling powerful:
+Dan kemudian bagian yang paling powerful—yang sampai sekarang masih saya ingat betul:
 
 > *"Mengering sumurku, terisi kembali. Kutemukan makna hidupku di sini."*
 
-**This line changed my perspective completely.** Lagu ini bukan tentang "jangan pernah mengering" (yang unrealistik), tapi tentang **siklus alami: mengering itu normal, tapi kita akan terisi kembali**. Dan justru dalam proses mengering dan terisi inilah kita menemukan makna.
+**This line changed my perspective completely.** 
 
-Sejak malam itu, setiap kali merasa "mengering"—capek, burnt out, merasa sudah ga punya apa-apa lagi untuk dikasih—saya ingat: *ini bukan akhir. Ini bagian dari siklus.* Sumur yang mengering akan terisi kembali. Yang penting: **tetap bersedia memberi, bahkan ketika sedang tidak sempurna ("walau tak suci"), bahkan ketika sedang terluka ("walau membiru")**.
+Lagu ini bukan tentang "jangan pernah mengering" (yang unrealistik), tapi tentang **siklus alami: mengering itu normal, inevitable, bahkan necessary**. Dan justru dalam proses **mengering dan terisi kembali** inilah kita menemukan makna.
+
+Tahun pertama SMA di Jawa Tengah: **mengering**—lost, homesick, struggling.  
+Tahun kedua: **mulai terisi kembali**—menang lomba komputer, menemukan circle, build confidence.  
+Tahun ketiga: **penuh**—dan siap untuk chapter baru (ITB).
+
+Dan sekarang, di ITB semester 5, siklus itu repeat lagi: adapt ke Jatinangor (mengering dikit), build community (terisi kembali), lead organizations (memberikan).
+
+Sejak malam itu di asrama Jawa Tengah, setiap kali merasa "mengering"—capek, burnt out, homesick, overwhelmed—saya ingat: **ini bukan akhir. Ini bagian dari siklus.** Sumur yang mengering akan terisi kembali. Yang penting: **tetap bersedia memberi, bahkan ketika sedang tidak sempurna ("walau tak suci"), bahkan ketika sedang terluka ("walau membiru")**.
 
 ### Ironi Manis: "Walau Kering, Bisakah Kita Tetap Membasuh?"
 
@@ -54,15 +66,17 @@ Tunggu—gimana caranya membasuh kalau kering? Itu kan kontradiktif?
 
 **Real examples dari pengalaman saya:**
 
-1. **Saat jadi Ketua IT Parade Wisuda Oktober 2025:** Ada momen di mana sistem registrasi bermasalah H-1 acara. Tim panik. Panitia lain nanya-nanya. Dan saya? Di dalam kepala saya juga panik. Tapi somehow, saya harus tetap "membasuh" kepanikan mereka dengan ketenangan. *Walau kering (panik dalam hati), tetap membasuh (menenangkan tim).*
+1. **Tahun pertama SMA di Jawa Tengah:** Saya sendiri lagi "kering" (homesick, struggling to adapt, feeling lost). Tapi ada teman se-asrama yang juga dari luar Jawa, dia even more struggling than me. Dan entah gimana, saya tetap trying to support dia—ajak ngobrol, share tips kecil, bahkan cuma constitute presence. *Walau kering (I was barely surviving myself), tetap membasuh (trying to help someone else survive).*
 
-2. **Saat jadi Dirjen Back-End KM ITB:** Junior nanya masalah technical yang... honestly, saya sendiri belum pernah ngalamin. Tapi sebagai "Dirjen," saya ga bisa bilang "sorry, I'm also confused." Jadi saya belajar bareng mereka, sambil tetap guide. *Walau kering (belum expert), tetap membasuh (tetap teach).*
-
-3. **Saat jadi Ketua Back-End HMIF:** Code review di tengah deadline UTS. Capek? Iya. Pengen istirahat? Banget. Tapi tim butuh feedback. So I did it anyway. *Walau kering (exhausted), tetap membasuh (kasih feedback constructive).*
+2. **Tahun kedua SMA, setelah menang lomba komputer:** Confidence mulai terisi kembali. Ada junior yang baru masuk, dia exactly seperti "past me"—lost, homesick, struggling. Saya ingat rasanya, jadi saya reach out. Share cerita saya. Bilang "it gets better." *Sumur mulai terisi kembali, dan saya bisa memberi dari pengalaman yang dulunya menyakitkan.*
 
 **Dan ini yang bikin saya ketawa (dan nangis dikit):** Ternyata proses "membasuh orang lain walau kering" itu justru yang **mengisi kembali sumur kita**. Seperti liriknya: *"Mengering sumurku, terisi kembali, kutemukan makna hidupku di sini."*
 
-Makna hidup bukan di "achievement" atau "trophy"—tapi di **proses tetap memberi walau tidak sempurna**. Dan ironisnya? Kita jadi lebih kaya (bukan secara material, tapi secara experience dan connection) justru karena berani "memberi walau mengering."
+**The irony:** Di tahun pertama Jawa Tengah, saya merasa paling "kering"—tapi justru di saat itulah saya mulai belajar untuk "memberi walau mengering" (support teman yang juga struggling). Dan process itu, over time, yang **mengisi kembali sumur saya**. Bukan instantly, tapi gradually.
+
+Makna hidup bukan di "achievement" atau "trophy" atau "always feeling full"—tapi di **proses tetap memberi walau tidak sempurna, dan dalam proses itu menemukan bahwa giving actually refills you**. Dan ironisnya? Kita jadi lebih kaya (bukan secara material, tapi secara experience dan connection) justru karena berani "memberi walau mengering."
+
+**Connection to my "merantau" story:** Setiap kali pindah (Samarinda → Jawa Tengah → Jatinangor), saya "mengering" lagi (adaptasi, loneliness). Tapi setiap kali saya choose to "memberi walau mengering" (reach out, build connections, support others), saya "terisi kembali." Dan cycle itu repeats, dan setiap cycle, saya jadi stronger, more capable, more connected.
 
 ---
 
@@ -148,7 +162,7 @@ Pertanyaan Hindia yang paling powerful:
 
 **My hypothesis (yang terus saya test):** Justru dengan tetap memberi walau tidak sempurna, kita menemukan makna. Seperti liriknya—*"Kutemukan makna hidupku di sini"*—di sini, di dalam paradoks memberi walau mengering.
 
-Dan jika Anda butuh soundtrack untuk proses itu—you know what to play 🎵
+Dan jika Anda butuh soundtrack untuk proses itu—you know what to play
 
 ---
 
@@ -182,6 +196,6 @@ Dan yang paling penting: lagu ini mengingatkan bahwa **collecting stories, exper
 **TL;DR untuk yang suka ringkasan:**  
 Lagu "Membasuh" mengajarkan bahwa hidup bukan tentang "mengambil yang kau tebar" (transaksional), tapi tentang **tetap memberi meski tidak sempurna, tetap mengobati meski terluka, tetap membasuh meski kering**. Dan justru dalam siklus "mengering dan terisi kembali" itulah kita menemukan makna.
 
-*Mengering sumurku, terisi kembali, kutemukan makna hidupku di sini.* 💙
+*Mengering sumurku, terisi kembali, kutemukan makna hidupku di sini.*
 
 (Dan ya, this is my way of saying: your imperfection is not a bug, it's a feature. Embrace the cycle.)
