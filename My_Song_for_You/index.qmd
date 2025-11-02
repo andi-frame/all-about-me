@@ -1,160 +1,187 @@
 # UTS-2 My Songs for You
 
-Post Wedding Kawah Putih
-Lirik by Armein Z. R. Langi
-Music: SUNO
+## Membasuh - Hindia: Ketika Air Menjadi Metafora Kehidupan
 
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}, with lyrics
+**Artis:** Hindia  
+**Album:** Menari Dengan Bayangan (2019)  
+**Genre:** Indonesian Indie Pop
 
-Engkau
-[Intro]
-[verse1]
-Mereka bilang perlu Ribuan kata 
-untuk menyatakan cinta. 
-Tapi satu-satunya kata yang kutemukan
- adalah: engkau…
+> *"Bisakah kita tetap memberi walau tak suci? Bisakah terus mengobati walau membiru?"*
 
-[Verse 2]
-Hidup bergerak begitu deras 
-Siang malam datang dan pergi. 
-Mereka bilang semua itu 
-akan melunturkan cinta kita…
+Pernahkah Anda merasakan momen di mana Anda merasa "kering" secara emosional—seperti sumur yang sudah tidak punya apa-apa lagi untuk diberikan? Lagu "Membasuh" dari Hindia berbicara tentang paradoks yang sangat manusiawi: **bagaimana tetap memberi ketika kita sendiri kosong, bagaimana tetap mengobati ketika kita sendiri terluka.**
 
+Tema utama lagu ini bukan tentang "mulai dari awal dengan bersih," tapi justru tentang **tetap memberi bahkan dalam ketidaksempurnaan**. Hindia dengan jujur bertanya: bisakah kita tetap memberi walau tak suci? Bisakah mengampuni tanpa memperhitungkan masa lalu? Dan yang paling powerful—**bisakah kita tetap membasuh walau kering?**
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+Ini bukan lagu tentang kesempurnaan. Ini tentang **keberanian untuk tetap berbuat baik meskipun kita sendiri masih dalam proses penyembuhan**. Dan itulah yang membuatnya sangat relevan dengan kehidupan mahasiswa: kita sering dituntut untuk "memberi" (dalam organisasi, proyek, tim) padahal kita sendiri masih "mengering" (capek, overwhelmed, questioning ourselves).
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
+### Video Official
 
-[Verse4]
-Peristiwa menimpa seperti badai tercurah dari langit. 
-Menerjang seperti seretan sungai. 
-Melemparku ke dalam dan ke luar, ke atas dan ke bawah, 
-menghanyutkanku gelagapan ke samudera raya…
+{{< video https://www.youtube.com/embed/emddwjzuNW4 >}}
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+### Cerita Di Balik Lagu: "Mengering Sumurku, Terisi Kembali"
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
+Saya pertama kali mendengarkan "Membasuh" di malam yang cukup berat—setelah tim saya tidak lolos ke babak final kompetisi hackathon yang sudah kami persiapkan selama berminggu-minggu. Rasanya seperti semua usaha kami sia-sia. Saya duduk sendirian di kamar, merasa "kering" secara emosional, dan entah bagaimana algoritma Spotify memutar lagu ini.
 
-[Coda 1]
-Sadarkah engkau 
-bahwa engkau telah menemukan 
-hukum baru tentang cinta? 
+*"Selama ini kunanti, yang kuberikan datang berbalik..."*
 
-[Coda 2]
-Bahwa satu tambah satu sama dengan satu
-Satu kali satu adalah tak hingga? 
-Dua kurang satu sama dengan kosong. 
-Segala sesuatu tanpa engkau adalah tiada…?
+Bait pembuka itu langsung menohok. Hindia dengan jujur mengakui bahwa ia memberi dengan ekspektasi—menunggu sesuatu kembali. Dan ketika tidak datang? *"Tak kunjung pulang."* 
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+Rasanya seperti Hindia sedang membaca diary saya. Berapa kali saya begadang untuk proyek organisasi, berharap "diakui" atau "dihargai"? Berapa kali saya memberi effort maksimal dalam lomba, berharap menang? Dan ketika hasilnya tidak sesuai ekspektasi, rasanya seperti... *mengering*.
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
-[Outro]
+**Momen "Aha!" Saya:**
 
+Tapi kemudian Hindia melanjutkan dengan baris yang mengubah segalanya:
 
-Why am I singing for you? [River on my Mind](./Rivers%20In%20My%20Mind.mp3)
-, with lyrics
+> *"Telah kusadar hidup bukanlah perihal mengambil yang kau tebar"*
 
-River on my mind
-[Verse]
-I do not know what has happened with your life
-I do not know how much you have suffered
-What I know is how to be me
-And I am still learning
+Wait. Jadi selama ini saya salah fokus? Hidup bukan tentang "menabung kebaikan" lalu "menarik hasilnya"? 
 
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
+Dan kemudian bagian yang paling powerful:
 
-[Verse]
-You deserve a caring heart
-And all of the most beautiful parts of this world
-You deserve a gentle touch
-And a soft place to land when you fall
+> *"Mengering sumurku, terisi kembali. Kutemukan makna hidupku di sini."*
 
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
+**This line changed my perspective completely.** Lagu ini bukan tentang "jangan pernah mengering" (yang unrealistik), tapi tentang **siklus alami: mengering itu normal, tapi kita akan terisi kembali**. Dan justru dalam proses mengering dan terisi inilah kita menemukan makna.
 
-[Bridge]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
+Sejak malam itu, setiap kali merasa "mengering"—capek, burnt out, merasa sudah ga punya apa-apa lagi untuk dikasih—saya ingat: *ini bukan akhir. Ini bagian dari siklus.* Sumur yang mengering akan terisi kembali. Yang penting: **tetap bersedia memberi, bahkan ketika sedang tidak sempurna ("walau tak suci"), bahkan ketika sedang terluka ("walau membiru")**.
 
+### Ironi Manis: "Walau Kering, Bisakah Kita Tetap Membasuh?"
 
-Falling in love everyday [Heaven on Earth](./Heaven%20on%20Earth.mp3), with lyrics
+Ada pertanyaan yang Hindia ajukan di chorus yang terdengar paradoks: *"Walau kering, bisakah kita tetap membasuh?"*
 
-Heaven on Earth
-[Verse]
-The breeze whispers soft to the sea
-A rhythm flows like it’s meant to be
-Every step feels lighter
-Free
+Tunggu—gimana caranya membasuh kalau kering? Itu kan kontradiktif?
 
+**Plot twist:** Justru di situlah letak humor dan kebijaksanaannya. Dalam hidup mahasiswa aktif organisasi (apalagi pegang posisi seperti Ketua IT, Dirjen, atau Ketua divisi), kita sering banget diminta "membasuh" orang lain—solve their problems, lead the team, kasih support—padahal kita sendiri lagi "kering."
 
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-fresh
+**Real examples dari pengalaman saya:**
 
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
+1. **Saat jadi Ketua IT Parade Wisuda Oktober 2025:** Ada momen di mana sistem registrasi bermasalah H-1 acara. Tim panik. Panitia lain nanya-nanya. Dan saya? Di dalam kepala saya juga panik. Tapi somehow, saya harus tetap "membasuh" kepanikan mereka dengan ketenangan. *Walau kering (panik dalam hati), tetap membasuh (menenangkan tim).*
 
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
+2. **Saat jadi Dirjen Back-End KM ITB:** Junior nanya masalah technical yang... honestly, saya sendiri belum pernah ngalamin. Tapi sebagai "Dirjen," saya ga bisa bilang "sorry, I'm also confused." Jadi saya belajar bareng mereka, sambil tetap guide. *Walau kering (belum expert), tetap membasuh (tetap teach).*
 
-[Prechorus]
-Close your eyes
-Let it start
-Feel the world inside your heart
+3. **Saat jadi Ketua Back-End HMIF:** Code review di tengah deadline UTS. Capek? Iya. Pengen istirahat? Banget. Tapi tim butuh feedback. So I did it anyway. *Walau kering (exhausted), tetap membasuh (kasih feedback constructive).*
 
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
+**Dan ini yang bikin saya ketawa (dan nangis dikit):** Ternyata proses "membasuh orang lain walau kering" itu justru yang **mengisi kembali sumur kita**. Seperti liriknya: *"Mengering sumurku, terisi kembali, kutemukan makna hidupku di sini."*
 
-[Bridge]
-Catch the rain as it falls on your face
-Hear the laughter
-It fills every space
-Time is fleeting
-Don’t let it erase
-This heaven we chase
+Makna hidup bukan di "achievement" atau "trophy"—tapi di **proses tetap memberi walau tidak sempurna**. Dan ironisnya? Kita jadi lebih kaya (bukan secara material, tapi secara experience dan connection) justru karena berani "memberi walau mengering."
+
+---
+
+### Lirik Lengkap: "Membasuh" - Hindia
+
+```
+Selama ini kunanti
+Yang kuberikan datang berbalik
+Tak kunjung pulang
+
+Apa pun yang terbilang
+Di daftar pamrihku seorang
+Telah kusadar hidup bukanlah
+Perihal mengambil yang kau tebar
+
+Sedikit air yang kupunya
+Milikmu juga bersama
+
+Bisakah kita tetap memberi
+Walau tak suci?
+Bisakah terus mengobati
+Walau membiru?
+
+Cukup besar 'tuk mengampuni
+'Tuk mengasihi
+Tanpa memperhitungkan masa yang lalu
+
+Walau kering
+Bisakah kita tetap membasuh?
+
+Kita bergerak dan bersuara
+Berjalan jauh tumbuh bersama
+Sempatkan pulang ke beranda
+'Tuk mencatat hidup dan harganya
+
+Bisakah kita tetap memberi
+Walau tak suci?
+Bisakah terus mengobati
+Walau membiru?
+
+Cukup besar 'tuk mengampuni
+'Tuk mengasihi
+Tanpa memperhitungkan masa yang lalu
+
+Walau kering
+Bisakah kita tetap membasuh?
+
+Mengering sumurku
+Terisi kembali
+Kutemukan
+Makna hidupku di sini
+```
+
+**Untuk mendengarkan:**
+- **YouTube:** [Hindia - Membasuh (Official Music Video)](https://www.youtube.com/watch?v=emddwjzuNW4)
+- **Platform Streaming:** Spotify, Apple Music, dan platform musik lainnya
+
+---
+
+## Pesan yang Ingin Saya Sampaikan: "Sedikit Air yang Kupunya, Milikmu Juga Bersama"
+
+Jika Anda membaca ini dan sedang merasa "mengering"—burnt out, overwhelmed, merasa ga punya apa-apa lagi untuk dikasih—ini untuk Anda:
+
+**Anda tidak perlu "penuh" untuk tetap memberi. Anda tidak perlu "suci" untuk tetap bermakna.**
+
+Hindia mengajarkan konsep yang radikal di lagu ini: *"Sedikit air yang kupunya, milikmu juga bersama."* Artinya, **bahkan ketika kita hanya punya sedikit, kita masih bisa berbagi**. Dan sharing that little bit justru yang makes us human—bukan perfection kita, tapi willingness kita untuk tetap memberi despite keterbatasan.
+
+Saya tidak akan bohong dan bilang "kamu ga akan pernah mengering" atau "just stay positive." Yang lebih jujur adalah: **kamu AKAN mengering. Berkali-kali. Dan that's okay.** Seperti lirik Hindia: *"Mengering sumurku, terisi kembali."* It's a cycle. Yang penting bukan "jangan pernah kering," tapi **tetap bersedia terisi kembali** dan **tetap bersedia memberi meski sedang dalam proses pengisian**.
+
+### Challenge untuk Kita Semua: "Tetap Membasuh Walau Kering"
+
+Coba ini minggu depan: Ketika Anda diminta memberi sesuatu (waktu, tenaga, support, solution) padahal Anda sendiri sedang merasa "kering":
+
+1. **Acknowledge your emptiness honestly:** "Gue lagi kering nih sebenernya." (Jangan pura-pura sempurna)
+2. **Give anyway, tapi dengan boundary:** "Gue bisa bantu, tapi mungkin ga sempurna ya." (Set realistic expectations)
+3. **Notice what happens:** Apa benar memberi walau kering itu menguras? Atau justru somehow **mengisi kembali**?
+
+Pertanyaan Hindia yang paling powerful:
+
+- *"Bisakah kita tetap memberi walau tak suci?"* → Bisakah kita contribute meski belum perfect?
+- *"Bisakah terus mengobati walau membiru?"* → Bisakah kita help others meski kita sendiri wounded?
+- *"Cukup besar 'tuk mengampuni tanpa memperhitungkan masa yang lalu?"* → Bisakah kita move forward tanpa counting scores?
+
+**My hypothesis (yang terus saya test):** Justru dengan tetap memberi walau tidak sempurna, kita menemukan makna. Seperti liriknya—*"Kutemukan makna hidupku di sini"*—di sini, di dalam paradoks memberi walau mengering.
+
+Dan jika Anda butuh soundtrack untuk proses itu—you know what to play 🎵
+
+---
+
+## Refleksi Akhir: "Sempatkan Pulang ke Beranda 'Tuk Mencatat Hidup dan Harganya"
+
+Ada baris di lagu ini yang sering saya skip pas pertama kali dengar, tapi ternyata paling meaningful:
+
+> *"Sempatkan pulang ke beranda 'tuk mencatat hidup dan harganya"*
+
+Dalam kesibukan mahasiswa semester 5 (kuliah, organisasi, proyek, deadline bertubi-tubi), kita sering lupa "pulang ke beranda"—berhenti sejenak untuk reflect: *What's the value of all this hustle? Apa harga yang sedang kubayar? Dan apakah worth it?*
+
+**"Membasuh" bukan lagu tentang kesuksesan atau pencapaian.** It's about **finding meaning in the process of giving, even when we're not perfect**. Dan dalam konteks komunikasi interpersonal yang kita pelajari, lagu ini mendemonstrasikan sesuatu yang sangat profound: **vulnerable communication—berbagi bukan dari posisi "sudah sampai" tapi dari posisi "sedang dalam perjalanan."**
+
+Ketika Hindia bertanya *"Bisakah kita tetap memberi walau tak suci?"*, dia tidak pura-pura punya semua jawaban. Dia mengundang kita untuk **honest about our limitations**. Dan paradoksnya? **Honesty about our "kekeringan" itu justru yang creates genuine connection.**
+
+---
+
+### Mengapa Lagu Ini Perfect untuk UTS-2 (Meta Reflection)
+
+Saya memilih "Membasuh" untuk UTS-2 bukan karena ini lagu favorit saya (I have many!), tapi karena lagu ini **embodies the philosophy yang saya coba praktikkan dalam komunikasi interpersonal:**
+
+1. **Orisinalitas:** Tidak pakai bahasa klise motivasi murahan. Pakai paradoks yang jujur.
+2. **Keterlibatan:** Ajak pembaca/pendengar bertanya pada diri sendiri (Bisakah kita...?)
+3. **Humor:** Ada ironi manis dalam "tetap membasuh walau kering"—kontradiktif tapi relatable
+4. **Inspirasi:** Bukan dari "you can do it!" yang kosong, tapi dari "it's okay to not be okay, and still try anyway"
+
+Dan yang paling penting: lagu ini mengingatkan bahwa **collecting stories, experiences, and the courage to "memberi walau mengering"** is more valuable than collecting trophies.
+
+---
+
+**TL;DR untuk yang suka ringkasan:**  
+Lagu "Membasuh" mengajarkan bahwa hidup bukan tentang "mengambil yang kau tebar" (transaksional), tapi tentang **tetap memberi meski tidak sempurna, tetap mengobati meski terluka, tetap membasuh meski kering**. Dan justru dalam siklus "mengering dan terisi kembali" itulah kita menemukan makna.
+
+*Mengering sumurku, terisi kembali, kutemukan makna hidupku di sini.* 💙
+
+(Dan ya, this is my way of saying: your imperfection is not a bug, it's a feature. Embrace the cycle.)
